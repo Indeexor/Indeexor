@@ -21,8 +21,7 @@
 
 🔗 [GitHub](https://github.com/Indeexor)
 
-🔗 [Instagram]([https://www.instagram.com/vvipq1/](https://www.instagram.com/meowmelodies_/))
-
+🔗 [Instagram](https://www.instagram.com/meowmelodies_/)
 
 ## 🚀 <span style="color:#3498db;">Skills</span>
 - 💚 <span style="color:#2ecc71;">Java</span>

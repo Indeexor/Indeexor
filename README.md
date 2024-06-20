@@ -21,7 +21,7 @@
 
 🔗 [GitHub](https://github.com/Indeexor)
 
-🔗 [Instagram](https://www.instagram.com/vvipq1/)
+🔗 [Instagram]([https://www.instagram.com/vvipq1/](https://www.instagram.com/meowmelodies_/))
 
 
 ## 🚀 <span style="color:#3498db;">Skills</span>
@@ -30,6 +30,7 @@
 - ❤️ <span style="color:#e74c3c;">C++</span>
 - 🧡 <span style="color:#f39c12;">JavaScript</span>
 - 💜 <span style="color:#9b59b6;">Web Development</span>
+- 💖 <span style="color:#9b59b6;">Web Development</span>
 
 ## <span style="color:#2ecc71;">Interests</span>
 - <span style="color:#2ecc71;">🔍 Algorithms</span>
